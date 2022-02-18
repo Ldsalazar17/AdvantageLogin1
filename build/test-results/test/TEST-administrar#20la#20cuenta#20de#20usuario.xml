@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="administrar la cuenta de usuario" tests="1" skipped="1" failures="0" errors="0" timestamp="2022-02-18T22:04:19" hostname="22LAP5CG0523WW5" time="0.112">
+  <properties/>
+  <testcase name="el usuario deberia ver la informacion de la cuenta" classname="administrar la cuenta de usuario" time="0.112">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[17:04:19.322 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96mTEST PENDING?[0m
+17:04:19.372 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: el usuario deberia ver la informacion de la cuenta
+---------------------------------------------------------------------------------?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
